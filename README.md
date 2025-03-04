@@ -17,6 +17,12 @@ Apaixonado por conhecimento e tecnologia, vejo a computação não apenas como m
 ## 🔥 Filosofia de Aprendizado
 Aprender é mais do que uma obrigação, é uma jornada fascinante. Cada conceito, cada linha de código e cada descoberta são degraus que me levam a um entendimento mais profundo do mundo.
 
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=quietbytesilence&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=quietbytesilence&layout=compact&theme=radical)
+
+
 ## 📫 Conecte-se comigo!
 Sinta-se à vontade para explorar meus repositórios e trocar ideias sobre tecnologia, educação e ciência!
 
