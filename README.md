@@ -8,6 +8,13 @@
         # Agora que já chegamos nesse nível de intimidade, que tal a gente rodar um script a dois? 😏  
 
 --->
+🌿 Olá, visitante querido! Seja muito bem-vindo. 🌸  
+
+Que alegria te ver por aqui! Meu espaço é feito de código, curiosidade e uma pitada de encanto.  
+Fique à vontade para explorar, aprender, rir e, quem sabe, até se apaixonar um pouquinho (pelo código, claro... ou não 👀).  
+
+Se precisar de algo, é só [chamar](http://t.me/lievasomal)! Espero que sua visita seja tão agradável quanto um café quentinho num dia frio. ☕✨  
+
 ## 🚀 Sobre mim
 Apaixonado por conhecimento e tecnologia, vejo a computação não apenas como minha profissão, mas como um campo infinito de exploração intelectual. Meu objetivo é aprofundar minha compreensão da computação, eletrônica e matemática, sempre buscando aprender e compartilhar esse conhecimento com o mundo.
 
