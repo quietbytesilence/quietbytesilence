@@ -1,7 +1,7 @@
 # Olá! 👋 Seja bem-vindo ao meu GitHub!
 <!---
  Olha só, você foi fundo, hein? 👀  
- Se abrir meu código é um sinal de interesse, acho que temos algo especial aqui. 💙  
+ Abrir meu código é um sinal de interesse, acho que temos algo especial aqui. 💙  
  Agora que já temos essa intimidade, que tal um café? ☕😏  
 --->
 ## 🚀 Sobre mim
