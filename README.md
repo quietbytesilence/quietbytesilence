@@ -1,5 +1,9 @@
 # Olá! 👋 Seja bem-vindo ao meu GitHub!
-
+<!---
+ Olha só, você foi fundo, hein? 👀  
+ Se abrir meu código é um sinal de interesse, acho que temos algo especial aqui. 💙  
+ Agora que já temos essa intimidade, que tal um café? ☕😏  
+--->
 ## 🚀 Sobre mim
 Apaixonado por conhecimento e tecnologia, vejo a computação não apenas como minha profissão, mas como um campo infinito de exploração intelectual. Meu objetivo é aprofundar minha compreensão da computação, eletrônica e matemática, sempre buscando aprender e compartilhar esse conhecimento com o mundo.
 
