@@ -17,7 +17,7 @@ Se precisar de algo, é só [chamar](http://t.me/lievasomal)! Espero que sua vis
 
 ## 🚀 Sobre mim
 Apaixonado por conhecimento e tecnologia, vejo a computação não apenas como minha profissão, mas como um campo infinito de exploração intelectual. Meu objetivo é aprofundar minha compreensão da computação, eletrônica e matemática, sempre buscando aprender e compartilhar esse conhecimento com o mundo.
-Tenho especialização em análise de dados, graduação em ciência de dados e técnico em informática
+Tenho especialização em análise de dados, graduação em ciência da computação e técnico em informática
 <!---
 ## 🎯 Áreas de Interesse
 - **Computação e Programação**: Desde alto nível até programação de baixo nível, explorando algoritmos, estruturas de dados e otimização de código.
